@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Website:
+https://water-intake-reminder.netlify.app/
